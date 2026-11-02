@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "title": "Expressive portrait study",
+    "category": "Illustration & sketching",
+    "src": "assets/work-01.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.42.21.jpeg",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "title": "Woven panel in progress",
+    "category": "Weaving & fiber",
+    "src": "assets/work-02.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.26 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Floral fabric sketch",
+    "category": "Textile art & wearables",
+    "src": "assets/work-03.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.26 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Floral textile painting",
+    "category": "Textile art & wearables",
+    "src": "assets/work-04.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.26 (3).jpeg",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Handwoven panel",
+    "category": "Weaving & fiber",
+    "src": "assets/work-05.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.26.jpeg",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "Painted vessel, top view",
+    "category": "Painted objects",
+    "src": "assets/work-06.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.27 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Decorative painted pot",
+    "category": "Painted objects",
+    "src": "assets/work-07.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.27 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Painted yellow garment",
+    "category": "Textile art & wearables",
+    "src": "assets/work-08.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.27.jpeg",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Hanging memory piece",
+    "category": "Paper craft & keepsakes",
+    "src": "assets/work-09.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.28 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Blue wrapped fiber detail",
+    "category": "Weaving & fiber",
+    "src": "assets/work-10.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.28 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "Personalized photo keepsake",
+    "category": "Paper craft & keepsakes",
+    "src": "assets/work-11.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.28 (3).jpeg",
+    "featured": true
+  },
+  {
+    "id": 12,
+    "title": "Mini hanging frame",
+    "category": "Paper craft & keepsakes",
+    "src": "assets/work-12.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.28.jpeg",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "Colorful woven shape",
+    "category": "Weaving & fiber",
+    "src": "assets/work-13.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.29 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "Red ink portrait",
+    "category": "Illustration & sketching",
+    "src": "assets/work-14.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.29 (2).jpeg",
+    "featured": true
+  },
+  {
+    "id": 15,
+    "title": "Tree sketch",
+    "category": "Illustration & sketching",
+    "src": "assets/work-15.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.29 (3).jpeg",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Character illustration",
+    "category": "Illustration & sketching",
+    "src": "assets/work-16.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.29 (4).jpeg",
+    "featured": true
+  },
+  {
+    "id": 17,
+    "title": "Strawberry painted pot",
+    "category": "Painted objects",
+    "src": "assets/work-17.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.29.jpeg",
+    "featured": true
+  },
+  {
+    "id": 18,
+    "title": "Figure and furniture sketch",
+    "category": "Illustration & sketching",
+    "src": "assets/work-18.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.30 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "Blue ink profile",
+    "category": "Illustration & sketching",
+    "src": "assets/work-19.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.30 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "title": "Expressive blue portrait",
+    "category": "Illustration & sketching",
+    "src": "assets/work-20.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.30.jpeg",
+    "featured": false
+  },
+  {
+    "id": 21,
+    "title": "Mixed media portrait",
+    "category": "Illustration & sketching",
+    "src": "assets/work-21.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.31 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 22,
+    "title": "Figure study",
+    "category": "Illustration & sketching",
+    "src": "assets/work-22.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.31.jpeg",
+    "featured": false
+  },
+  {
+    "id": 23,
+    "title": "Tree composition",
+    "category": "Illustration & sketching",
+    "src": "assets/work-23.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.32 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 24,
+    "title": "Green character sketch",
+    "category": "Illustration & sketching",
+    "src": "assets/work-24.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.32 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 25,
+    "title": "Painted plant pot",
+    "category": "Painted objects",
+    "src": "assets/work-25.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.32 (3).jpeg",
+    "featured": false
+  },
+  {
+    "id": 26,
+    "title": "Moon face vessel",
+    "category": "Painted objects",
+    "src": "assets/work-26.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.32 (4).jpeg",
+    "featured": true
+  },
+  {
+    "id": 27,
+    "title": "Botanical painted vessel",
+    "category": "Painted objects",
+    "src": "assets/work-27.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.32 (5).jpeg",
+    "featured": false
+  },
+  {
+    "id": 28,
+    "title": "Botanical sketch",
+    "category": "Illustration & sketching",
+    "src": "assets/work-28.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.32.jpeg",
+    "featured": false
+  },
+  {
+    "id": 29,
+    "title": "Vessel design sketch",
+    "category": "Painted objects",
+    "src": "assets/work-29.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.33 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 30,
+    "title": "Star painted on denim",
+    "category": "Textile art & wearables",
+    "src": "assets/work-30.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.33 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 31,
+    "title": "Decorated denim",
+    "category": "Textile art & wearables",
+    "src": "assets/work-31.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.33 (3).jpeg",
+    "featured": true
+  },
+  {
+    "id": 32,
+    "title": "Hand painted dark fabric",
+    "category": "Textile art & wearables",
+    "src": "assets/work-32.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.33 (4).jpeg",
+    "featured": false
+  },
+  {
+    "id": 33,
+    "title": "Vessel motif study",
+    "category": "Painted objects",
+    "src": "assets/work-33.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.33.jpeg",
+    "featured": false
+  },
+  {
+    "id": 34,
+    "title": "Pencil character portrait",
+    "category": "Illustration & sketching",
+    "src": "assets/work-34.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.34 (1).jpeg",
+    "featured": false
+  },
+  {
+    "id": 35,
+    "title": "Blue pencil portrait",
+    "category": "Illustration & sketching",
+    "src": "assets/work-35.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.34 (2).jpeg",
+    "featured": false
+  },
+  {
+    "id": 36,
+    "title": "Sun and flowers on fabric",
+    "category": "Textile art & wearables",
+    "src": "assets/work-36.webp",
+    "original": "WhatsApp Image 2026-11-02 at 15.44.34.jpeg",
+    "featured": false
+  },
+  {
+    "id": 37,
+    "title": "Frame weaving close-up",
+    "category": "Weaving & fiber",
+    "src": "assets/work-37.webp",
+    "original": "new-media/work-37.jpeg",
+    "featured": false
+  },
+  {
+    "id": 38,
+    "title": "Colorful yarn decoration",
+    "category": "Weaving & fiber",
+    "src": "assets/work-38.webp",
+    "original": "new-media/work-38.jpeg",
+    "featured": true
+  },
+  {
+    "id": 39,
+    "title": "Weaving on a wooden frame",
+    "category": "Weaving & fiber",
+    "src": "assets/work-39.webp",
+    "original": "new-media/work-39.jpeg",
+    "featured": false
+  },
+  {
+    "id": 40,
+    "title": "Woven bracelet at the loom",
+    "category": "Weaving & fiber",
+    "src": "assets/work-40.webp",
+    "original": "new-media/work-40.jpeg",
+    "featured": true
+  },
+  {
+    "id": 41,
+    "title": "Two-tone woven bracelet",
+    "category": "Weaving & fiber",
+    "src": "assets/work-41.webp",
+    "original": "new-media/work-41.jpeg",
+    "featured": true
+  },
+  {
+    "id": 42,
+    "title": "Hanging decoration from natural materials",
+    "category": "Decoration & upcycling",
+    "src": "assets/work-42.webp",
+    "original": "new-media/work-42.png",
+    "featured": true
+  },
+  {
+    "id": 43,
+    "title": "Woven twig decoration",
+    "category": "Decoration & upcycling",
+    "src": "assets/work-43.webp",
+    "original": "new-media/work-43.png",
+    "featured": true
+  },
+  {
+    "id": 44,
+    "title": "From sketch to woven bracelet",
+    "category": "Weaving & fiber",
+    "src": "assets/process-1.jpg",
+    "original": "process-1.jpg",
+    "featured": false
+  },
+  {
+    "id": 45,
+    "title": "Colors on the twig loom",
+    "category": "Weaving & fiber",
+    "src": "assets/process-2.jpg",
+    "original": "process-2.jpg",
+    "featured": true
+  },
+  {
+    "id": 46,
+    "title": "Playful paper characters",
+    "category": "Paper craft & keepsakes",
+    "src": "assets/process-3.jpg",
+    "original": "process-3.jpg",
+    "featured": true
+  }
+]
